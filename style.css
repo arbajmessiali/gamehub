@@ -1,0 +1,16 @@
+@font-face {
+    font-family: customFont;
+    src: url(SuperLegendBoy-4w8Y.ttf);
+}
+
+* { 
+    padding: 0; margin: 0; 
+    font-family: customFont;
+}
+
+#banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
